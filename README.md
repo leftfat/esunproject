@@ -6,3 +6,6 @@ Backend
   Jdk 版本為 17.0.1
 Frontend 
 	使用 Vue.js (vue3) 撰寫
+
+
+ 使用前端傳案前請先用 npm i 
